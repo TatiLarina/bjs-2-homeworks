@@ -5,7 +5,6 @@ class PrintEditionItem {
 		this.pagesCount = pagesCount;
 		this.state = 100;
 		this.type = null;
-		
 	}
 
 	fix() {
