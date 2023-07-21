@@ -13,6 +13,7 @@ function validateCount(number) {
 	}
 }
 
+
 class Triangle {
 	constructor(a, b, c) {
 		if (((a + b) < c) || ((c + b) < a) || ((a + c) < b)) {
